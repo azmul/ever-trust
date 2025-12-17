@@ -7,11 +7,7 @@ import {
   type ReactNode,
   useMemo,
 } from "react";
-import { Messages, en, bn } from "@/messages";
-
-type Locale = "en" | "bn";
-
-const translations: Record<Locale, Messages> = { en, bn };
+import { translations, type Locale, type Messages } from "./i18n/messages";
 
 type LanguageContextValue = {
   locale: Locale;

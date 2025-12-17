@@ -19,3 +19,8 @@
 .dark {
   color-scheme: dark;
 }
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}

@@ -35,8 +35,8 @@ export function AboutSection() {
               />
             </div>
             <div>
-              <div className="text-white font-bold">Rahim Ahmed</div>
-              <div className="text-primary text-sm">CEO, TechGadgets BD</div>
+              <div className="text-white font-bold">Faisal Ahmed</div>
+              <div className="text-primary text-sm">Business Owner, BD</div>
             </div>
           </footer>
         </blockquote>

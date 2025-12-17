@@ -28,7 +28,7 @@ export function ContactSection() {
                   {messages.contact.phoneLabel}
                 </div>
                 <div className="text-white font-bold text-lg">
-                  {messages.contact.phoneCaption}
+                  +880 1721 20 37 90
                 </div>
               </div>
             </div>
@@ -43,7 +43,7 @@ export function ContactSection() {
                   {messages.contact.emailLabel}
                 </div>
                 <div className="text-white font-bold text-lg">
-                  sourcing@importco.com
+                  evertrust04@gmail.com
                 </div>
               </div>
             </div>
@@ -58,7 +58,7 @@ export function ContactSection() {
                   {messages.contact.officeLabel}
                 </div>
                 <div className="text-white font-bold text-lg">
-                  Gulshan-1, Dhaka, Bangladesh
+                  Salua Bazar, Chowgacha, Jessore, Bangladesh
                 </div>
               </div>
             </div>
@@ -129,5 +129,3 @@ export function ContactSection() {
     </section>
   );
 }
-
-

@@ -174,7 +174,7 @@ export type Messages = {
     global: {
       heading: "Global Sourcing Network",
       description:
-        "We have established strong partnerships with factories and logistics hubs in key manufacturing nations.",
+        "We have established strong partnerships with logistics hubs in key manufacturing nations.",
       countryChina: "China",
       countryTurkey: "Turkey",
       countryIndia: "India",
@@ -182,7 +182,7 @@ export type Messages = {
     },
     compliance: {
       heading: "Fully Licensed & Compliant",
-      subtitle: "Operating legally in Bangladesh since 2015.",
+      subtitle: "Operating legally in Bangladesh since 2025.",
       badgeTradeLicense: "Trade License",
       badgeImportReg: "Import Reg. Cert",
       badgeVatBin: "VAT/BIN",
@@ -190,7 +190,7 @@ export type Messages = {
       whoHeading: "Who We Work With",
       whoText:
         "We partner exclusively with Wholesalers, Retailers, Distributors, Factories, and Corporate Buyers.",
-      whoHighlight: "We do not serve individual retail customers.",
+      whoHighlight: "We  serve individual retail customers.",
     },
     about: {
       heading: "About Ever Trust",
@@ -202,11 +202,11 @@ export type Messages = {
       heading: "Ready to Import?",
       subtitle: "Fill out the form to get a detailed quotation within 24 hours.",
       phoneLabel: "Phone / WhatsApp",
-      phoneCaption: "+880 1712 345 678",
+      phoneCaption: "+880 1721 20 37 90",
       emailLabel: "Email Us",
       officeLabel: "Office Location",
       formNameLabel: "Your Name",
-      formNamePlaceholder: "John Doe",
+      formNamePlaceholder: "Your Name",
       formPhoneLabel: "Phone Number",
       formPhonePlaceholder: "+880...",
       formProductLabel: "Product Name",
@@ -219,7 +219,7 @@ export type Messages = {
     },
     footer: {
       brand: "Ever Trust",
-      copyright: "© 2025 Ever Trust. All rights reserved. Dhaka, Bangladesh.",
+      copyright: "© 2025 Ever Trust. All rights reserved. Jessore, Bangladesh.",
     },
   };
   
@@ -300,15 +300,15 @@ export type Messages = {
     },
     compliance: {
       heading: "সম্পূর্ণ লাইসেন্সপ্রাপ্ত ও কমপ্লায়েন্ট",
-      subtitle: "২০১৫ সাল থেকে বাংলাদেশে আইনগতভাবে কার্যক্রম পরিচালনা করছি।",
+      subtitle: "২০২৫ সাল থেকে বাংলাদেশে আইনগতভাবে কার্যক্রম পরিচালনা করছি।",
       badgeTradeLicense: "Trade License",
       badgeImportReg: "Import Reg. Cert",
       badgeVatBin: "VAT/BIN",
       badgeChamber: "Chamber Member",
       whoHeading: "আমরা যাদের সাথে কাজ করি",
       whoText:
-        "আমরা শুধুমাত্র হোলসেলার, রিটেইলার, ডিস্ট্রিবিউটর, ফ্যাক্টরি ও কর্পোরেট বায়ারদের সাথে কাজ করি।",
-      whoHighlight: "আমরা কোনো ব্যক্তিগত/রিটেইল কাস্টমারকে সেবা দেই না।",
+        "আমরা হোলসেলার, রিটেইলার, ডিস্ট্রিবিউটর, ফ্যাক্টরি ও কর্পোরেট বায়ারদের সাথে কাজ করি।",
+      whoHighlight: "আমরা ব্যক্তিগত/রিটেইল কাস্টমারকে সেবা দেই।",
     },
     about: {
       heading: "এভার ট্রাস্ট সম্পর্কে",
@@ -320,11 +320,11 @@ export type Messages = {
       heading: "ইমপোর্ট করতে প্রস্তুত?",
       subtitle: "ফর্মটি পূরণ করুন, ২৪ ঘণ্টার মধ্যে আমরা বিস্তারিত কোটেশন পাঠাবো।",
       phoneLabel: "ফোন / হোয়াটসঅ্যাপ",
-      phoneCaption: "+880 1712 345 678",
+      phoneCaption: "+880 1721 20 37 90",
       emailLabel: "ইমেইল করুন",
       officeLabel: "অফিস ঠিকানা",
       formNameLabel: "আপনার নাম",
-      formNamePlaceholder: "জন ডো",
+      formNamePlaceholder: "আপনার নাম",
       formPhoneLabel: "ফোন নম্বর",
       formPhonePlaceholder: "+880...",
       formProductLabel: "প্রোডাক্টের নাম",
@@ -338,6 +338,6 @@ export type Messages = {
     },
     footer: {
       brand: "এভার ট্রাস্ট",
-      copyright: "© ২০২৫ এভার ট্রাস্ট। সর্বস্বত্ব সংরক্ষিত। ঢাকা, বাংলাদেশ।",
+      copyright: "© ২০২৫ এভার ট্রাস্ট। সর্বস্বত্ব সংরক্ষিত। যশোর, বাংলাদেশ।",
     },
   };
