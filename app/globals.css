@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #46ec13;
+  --color-background-light: #f6f8f6;
+  --color-background-dark: #152211;
+  --color-surface-dark: #1f3319;
+  --color-border-dark: #3f6732;
+
+  --font-display: "Manrope", sans-serif;
+
+  --radius: 1rem;
+  --radius-lg: 2rem;
+  --radius-xl: 3rem;
+  --radius-full: 9999px;
+}
+
+/* Custom utility classes for dark mode background */
+.dark {
+  color-scheme: dark;
+}
