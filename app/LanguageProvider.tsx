@@ -20,7 +20,7 @@ const LanguageContext = createContext<LanguageContextValue | undefined>(
 );
 
 export function LanguageProvider({ children }: { children: ReactNode }) {
-  const [locale, setLocale] = useState<Locale>("bn");
+  const [locale, setLocale] = useState<Locale>("en");
 
   const value = useMemo<LanguageContextValue>(
     () => ({
