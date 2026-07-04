@@ -1,0 +1,15 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "ever-trust-dev",
+      "runtimeExecutable": "pnpm",
+      "runtimeArgs": ["dev"],
+      "port": 3000,
+      "env": {
+        "ADMIN_PASSWORD": "test1234",
+        "ADMIN_SESSION_SECRET": "devsecret"
+      }
+    }
+  ]
+}
